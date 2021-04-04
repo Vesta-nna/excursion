@@ -1,13 +1,17 @@
 html {
   margin: 0 auto;
   background-color: black;
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+body {
   text-align: center;
 }
 
-header {
-  color: white;
+h1 {
   font-size: 50px;
+  font-weight: normal;
 }
 
 a {
